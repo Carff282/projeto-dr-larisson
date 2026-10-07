@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 800" fill="none">
+  <defs>
+    <linearGradient id="brand" x1="92" y1="105" x2="516" y2="738" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00D9FF"/>
+      <stop offset="1" stop-color="#2ECC71"/>
+    </linearGradient>
+    <linearGradient id="leaf" x1="174" y1="92" x2="417" y2="382" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#00D9FF"/>
+      <stop offset="1" stop-color="#2ECC71"/>
+    </linearGradient>
+  </defs>
+
+  <g stroke="url(#brand)" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M300 385c-38-41-97-61-137-112-47-60-54-148-18-211 20-35 55-47 86-25 29 20 47 57 69 83 22-26 40-63 69-83 31-22 66-10 86 25 36 63 29 151-18 211-40 51-99 71-137 112Z" stroke-width="8"/>
+    <path d="M184 322c-20 82-16 154 11 215 19 43 50 76 105 101 55-25 86-58 105-101 27-61 31-133 11-215" stroke-width="8"/>
+    <path d="M300 365v268" stroke-width="7"/>
+
+    <path d="M300 322c-42-44-104-55-165-35 38 51 94 72 165 55" stroke="url(#leaf)" stroke-width="7"/>
+    <path d="M300 322c42-44 104-55 165-35-38 51-94 72-165 55" stroke="url(#leaf)" stroke-width="7"/>
+    <path d="M300 277c-28-59-80-91-145-94 25 65 70 103 145 112" stroke="url(#leaf)" stroke-width="7"/>
+    <path d="M300 277c28-59 80-91 145-94-25 65-70 103-145 112" stroke="url(#leaf)" stroke-width="7"/>
+    <path d="M300 229c-13-68-54-117-112-143 6 73 41 128 112 166" stroke="url(#leaf)" stroke-width="7"/>
+    <path d="M300 229c13-68 54-117 112-143-6 73-41 128-112 166" stroke="url(#leaf)" stroke-width="7"/>
+    <path d="M300 184c-2-54 15-101 51-141 34 50 43 100 25 151" stroke="url(#leaf)" stroke-width="7"/>
+    <path d="M300 179c-37-48-89-74-150-73 27 56 71 91 139 103" stroke="url(#leaf)" stroke-width="7"/>
+    <path d="M300 179c37-48 89-74 150-73-27 56-71 91-139 103" stroke="url(#leaf)" stroke-width="7"/>
+
+    <path d="M300 535c-33-25-57-62-68-107M300 535c33-25 57-62 68-107" stroke-width="7"/>
+    <path d="M300 633v75M300 708h-79v42h-52M300 708h79v42h52" stroke-width="7"/>
+    <path d="M221 708v-56h-49v-45h-41M379 708v-56h49v-45h41" stroke-width="7"/>
+    <path d="M172 652v-41M428 652v-41" stroke-width="7"/>
+    <circle cx="118" cy="607" r="12" stroke-width="7"/>
+    <circle cx="482" cy="607" r="12" stroke-width="7"/>
+    <circle cx="157" cy="750" r="12" stroke-width="7"/>
+    <circle cx="443" cy="750" r="12" stroke-width="7"/>
+  </g>
+</svg>

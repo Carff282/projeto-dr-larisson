@@ -1,0 +1,8 @@
+node_modules/
+.env
+.env.*
+!.env.example
+backend/data/database.json
+*.log
+/assets/pac cabulotica.png
+/assets/pac caio.png
